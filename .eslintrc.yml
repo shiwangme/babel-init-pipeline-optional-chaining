@@ -1,0 +1,5 @@
+root: true
+extends: shiwangme
+parser: babel-eslint
+rules:
+  import/prefer-default-export: 0
